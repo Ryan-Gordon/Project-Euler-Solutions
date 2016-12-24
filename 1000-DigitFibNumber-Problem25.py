@@ -20,6 +20,5 @@ def fib():
             return a
         a, b = b, a + b # Do fib calculation
         terms += 1
-
 fib()
 
